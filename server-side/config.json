@@ -1,0 +1,11 @@
+{
+    "host": "YOUR_AWS_HOST",
+    "rootCAPath": "certificados/root-CA.crt",
+    "certificatePath": "certificados/YOUR_CERT",
+    "privateKeyPath": "certificados/YOUR_PRIVATE_KET",
+    "port": YOUR_PORT,
+    "useWebsocket": false,
+    "clientId": "YOUR_CLIENT_ID",
+    "topic": "YOUR_TOPIC",
+    "mode": "subscribe"
+}
