@@ -12,3 +12,14 @@ Los scripts de transmisión _del lado del cliente_ han sido probados en entornos
 En el archivo **requirements.txt** podrá encontrar las librerías adicionales de Python que deben ser instaladas.
 
 Versión de Pyhton > 3.6.x
+
+## Temas de interés para el análisis de datos
+
+- [Guía de tensorflow desde la documentación oficial](https://www.tensorflow.org/overview)
+- [Tipos de Capas de un modelo de análisis de datos](https://www.tensorflow.org/api_docs/python/tf/keras/layers?hl=es)
+- [Tensorboard para análisis de métricas en el flujo de machine learning](https://www.tensorflow.org/tensorboard/get_started)
+- [Ajuste de Hiperparámetros](https://www.tensorflow.org/tensorboard/hyperparameter_tuning_with_hparams)
+- [Funciones de activación](https://www.tensorflow.org/api_docs/python/tf/keras/activations)
+- [Métodos de optimización](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers)
+- [Ejemplo de implementación de una CNN](https://www.tensorflow.org/tutorials/images/cnn)
+- [Ejemplo de implementación de un clasificador usando de Deep Learning](https://medium.com/datos-y-ciencia/construye-tu-primer-clasificador-de-deep-learning-con-tensorflow-ejemplo-de-razas-de-perros-ed218bb4df89)
